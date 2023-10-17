@@ -1,11 +1,9 @@
-import logo from "./logo.svg";
-import "./App.css";
-import ApexChart from "./component/Pichart/picChart";
+import Tables from "./component/Table/table";
 
 function App() {
   return (
     <div className="App">
-      <ApexChart />
+      <Tables />
     </div>
   );
 }
